@@ -1,3 +1,3 @@
-print("Git/Github Demo changed remotely - local add")
+print("Git/Github Demo changed remotely - solved in merge editor")
 
-print("Another line local")
+print("Just solving it manually")
